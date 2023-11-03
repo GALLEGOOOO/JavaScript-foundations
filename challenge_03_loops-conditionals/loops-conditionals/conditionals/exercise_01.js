@@ -11,7 +11,7 @@
 const number = "16";
 
 if (number % 2 == 0) {
-  console.log("El número es par");
+  console.log("The number is even");
 } else {
-  console.log("El número es inpar");
+  console.log("The number is odd");
 }
