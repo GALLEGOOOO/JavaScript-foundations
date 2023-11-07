@@ -23,6 +23,10 @@ Instead of using a structure that follows a logical line, use several independen
 This causes all conditions to be checked one after another, and all blocks that are met are executed, which causes it to fail.
 I have changed the last else so that any number greater than or equal to 18 always tells the desired phrase.
 
+En lloc d'utilitzar una estructura que segueixi una línia lògica, utilitzeu diversos "if-else-if" independents.
+Això fa que totes les condicions es comprovin una darrere l'altra i s'executin tots els blocs que es compleixen, la qual cosa fa que falli.
+He canviat l'últim else perquè qualsevol nombre superior o igual a 18 sempre indiqui la frase desitjada.
+
 Solucion:
 const age = 20;
 
