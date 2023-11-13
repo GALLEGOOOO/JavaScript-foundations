@@ -1,4 +1,3 @@
-
 <<<<<<< HEAD
 =======
 <figure style="text-align: center">
