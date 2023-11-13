@@ -1,5 +1,6 @@
-# JavaScript foundations
 
+<<<<<<< HEAD
+=======
 <figure style="text-align: center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="DOM Tree" width="100" />
    <figcaption>JavaScript</figcaption>
@@ -538,3 +539,4 @@ todo
 ### Callbacks
 
 todo
+>>>>>>> 2852263ace3c24c2600f36ce2c2d374f5841092a
