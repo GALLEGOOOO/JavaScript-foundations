@@ -525,17 +525,3 @@ do {
 console.log(result); // 1
 ```
 
-## About functions
-
-### Declaration function
-
-todo
-
-### Expression function
-
-todo
-
-### Callbacks
-
-todo
->>>>>>> 2852263ace3c24c2600f36ce2c2d374f5841092a
